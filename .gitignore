@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts
+model.pkl
+scaler.pkl
+features.pkl
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

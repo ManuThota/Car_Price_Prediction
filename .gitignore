@@ -2,7 +2,8 @@
 venv/
 
 # Dataset
-car_price_data.csv
+data/*
+!data/.gitkeep
 
 # Python cache
 __pycache__/

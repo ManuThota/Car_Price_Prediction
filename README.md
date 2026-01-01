@@ -35,7 +35,7 @@ Predict the **Selling Price** of a car using historical car data by learning pat
 Car_Price_Prediction/
 │
 ├── data/
-│   └── CarPrice_Assignment.csv
+│   └── car_price_data.csv
 │
 ├── notebooks/
 │   └── Car_Price_Prediction.ipynb
